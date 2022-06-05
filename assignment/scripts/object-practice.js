@@ -59,3 +59,5 @@ console.log( 'My new shoe count is:', me.shoeCount);
 */
 
 me.favoriteColor='Dark Blue';
+
+console.log( 'New Me object is now:', me);
