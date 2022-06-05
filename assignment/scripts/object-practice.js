@@ -34,6 +34,7 @@ console.log( fullName );
   - Console.log your last favorite food 
 */
 console.log('My first faavorite food is:', me.favThreeFoods[0]);
+console.log( 'My last favorite food is:', me.favThreeFoods[2]); 
 
 
 
