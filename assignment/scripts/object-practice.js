@@ -16,7 +16,7 @@ const me = {
   favThreeFoods:['hyejang gook', 'pan tumaca', 'hummus'] 
   // TODO - add properties here
 };
-console.log('A little about me:', me);
+console.log( 'A little about me:', me );
 
 /* 2. Accessing object properties.
   - Create a variable called fullName 
@@ -33,7 +33,7 @@ console.log( fullName );
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */
-console.log('My first faavorite food is:', me.favThreeFoods[0]);
+console.log( 'My first faavorite food is:', me.favThreeFoods[0]);
 console.log( 'My last favorite food is:', me.favThreeFoods[2]); 
 
 
