@@ -9,6 +9,11 @@ console.log('***** Object Practice *****')
   - Also give it an array 'favThreeFoods'
 */
 const me = {
+  firstName: 'Maria Isabel',
+  lastName: 'Gonzalez',
+  hasSiblings: true,
+  shoeCount: 5,
+  favThreeFoods:['hyejang gook', 'pan tumaca', 'hummus'] 
   // TODO - add properties here
 };
 console.log('A little about me:', me);
@@ -19,6 +24,9 @@ console.log('A little about me:', me);
     created above to set its value. 
   - Console.log fullName
 */
+let fullName= me.firstName + me.lastName;
+
+
 
 
 
